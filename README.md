@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+@Courtesy of Code with Ania Kubow
+
+Using Javascript, React, Axios and Rapid API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
